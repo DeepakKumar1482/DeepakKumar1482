@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on MERN stack projects, recently learnt Nextjs, I do dsa in java and have learnt all the data structures and have solved 300+ leetcode questions<br>I am currently learning Type Script, Advance data structures in java Script, Figma,<br>
+I am working on MERN stack projects, recently learnt Nextjs, I do dsa in java and have learnt all the data structures and have solved 300+ leetcode questions<br>I am currently learning Type Script, Advance data structures in java Script, Figma<br>
 
 
 ## 🌐 Socials:
